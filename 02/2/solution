@@ -1,0 +1,23 @@
+Gkyyp
+:%s/ed\|lue\|reen\|Game \| //g
+:%s/\(\d\+\):\(.*\)/\1\r---\r\2\r###/
+:%s/,\|;/\r/g
+Gddgg
+qqjV
+/###k:sort n
+/###/r?"rdd2k
+/###/g?"gdd2k
+/###/b?"bdd2k
+k/###kV
+/---?
+"_d
+2k"rp"gp"bp
+2k/###kV
+/---?J/---q1000@q
+:%s/\(\d\+\)\n--- \(.*\)\n###/\2/
+GGdkdd
+:%s/r \|g /*/g
+:%s/b\n/+/
+:%s/+$//
+C="
+
